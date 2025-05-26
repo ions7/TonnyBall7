@@ -73,7 +73,7 @@ const Contact: React.FC = () => {
                   
                   <div className="space-y-4">
                     <a 
-                      href="https://www.youtube.com/channel/UC1SMA2DymRtJY7T-2YUl"
+                      href="https://www.youtube.com/@TonnyBall"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center py-3 px-4 bg-dark-400 hover:bg-dark-300 rounded-md transition-colors duration-300"

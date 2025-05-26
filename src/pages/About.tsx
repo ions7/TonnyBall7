@@ -1,5 +1,5 @@
 import React from 'react';
-import { Youtube, Instagram, TiktokIcon } from 'lucide-react';
+import { Youtube, Instagram } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const About: React.FC = () => {
@@ -108,7 +108,7 @@ const About: React.FC = () => {
               <div className="relative">
                 <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-primary p-1 bg-dark-500">
                   <img 
-                    src="/tonnyball-avatar.png" 
+                    src="https://i.postimg.cc/W1VhQVnw/Flux-Dev-Create-a-highquality-digital-avatar-of-a-young-footba-0.jpg"
                     alt="TonnyBall Character" 
                     className="w-full h-full object-cover rounded-full"
                   />

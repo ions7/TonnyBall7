@@ -55,7 +55,7 @@ const Home: React.FC = () => {
               </p>
               <div className="flex flex-wrap gap-4">
                 <a 
-                  href="https://www.youtube.com/channel/UC1SMA2DymRtJY7T-2YUl"
+                  href="https://www.youtube.com/@TonnyBall"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-primary hover:bg-primary-600 text-light-500 px-6 py-3 rounded-md transition-colors duration-300 flex items-center gap-2 font-medium"
@@ -80,7 +80,7 @@ const Home: React.FC = () => {
               <div className="relative">
                 <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-primary p-1 bg-dark-500">
                   <img 
-                    src="/tonnyball-avatar.png" 
+                    src="https://i.postimg.cc/W1VhQVnw/Flux-Dev-Create-a-highquality-digital-avatar-of-a-young-footba-0.jpg"
                     alt="TonnyBall Character" 
                     className="w-full h-full object-cover rounded-full"
                   />

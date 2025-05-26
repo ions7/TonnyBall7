@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Youtube, Instagram, BookIcon as TiktokIcon, Mail, Send } from 'lucide-react';
+import { Youtube, Instagram, Mail, Send } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
             <Link to="/" className="flex items-center gap-3 mb-4">
               <div className="relative h-12 w-12 overflow-hidden rounded-full border-2 border-primary">
                 <img
-                  src="/tonnyball-avatar.png"
+                  src="https://i.postimg.cc/W1VhQVnw/Flux-Dev-Create-a-highquality-digital-avatar-of-a-young-footba-0.jpg"
                   alt="TonnyBall Logo"
                   className="h-full w-full object-cover"
                 />
@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://www.youtube.com/channel/UC1SMA2DymRtJY7T-2YUl"
+                href="https://www.youtube.com/@TonnyBall"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-light-500 hover:text-primary transition-colors duration-300"
@@ -115,7 +115,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="https://www.youtube.com/channel/UC1SMA2DymRtJY7T-2YUl"
+                  href="https://www.youtube.com/@TonnyBall"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-light-300 hover:text-primary transition-colors duration-300"

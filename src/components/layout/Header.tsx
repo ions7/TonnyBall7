@@ -37,7 +37,7 @@ const Header: React.FC = () => {
         <Link to="/" className="flex items-center gap-3">
           <div className="relative h-12 w-12 overflow-hidden rounded-full border-2 border-primary">
             <img
-              src="/tonnyball-avatar.png"
+              src="https://i.postimg.cc/W1VhQVnw/Flux-Dev-Create-a-highquality-digital-avatar-of-a-young-footba-0.jpg"
               alt="TonnyBall Logo"
               className="h-full w-full object-cover"
             />
@@ -68,7 +68,7 @@ const Header: React.FC = () => {
 
         <div className="hidden md:flex items-center space-x-4">
           <a
-            href="https://www.youtube.com/channel/UC1SMA2DymRtJY7T-2YUl"
+            href="https://www.youtube.com/@TonnyBall"
             target="_blank"
             rel="noopener noreferrer"
             className="text-light-500 hover:text-primary transition-colors duration-300"
@@ -86,7 +86,7 @@ const Header: React.FC = () => {
             <Instagram size={20} />
           </a>
           <a
-            href="https://www.youtube.com/channel/UC1SMA2DymRtJY7T-2YUl"
+            href="https://www.youtube.com/@TonnyBall"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-primary hover:bg-primary-600 text-light-500 px-4 py-2 rounded-md transition-colors duration-300 flex items-center gap-2"
@@ -131,7 +131,7 @@ const Header: React.FC = () => {
             </nav>
             <div className="flex items-center space-x-4 mt-6 pt-4 border-t border-dark-300">
               <a
-                href="https://www.youtube.com/channel/UC1SMA2DymRtJY7T-2YUl"
+                href="https://www.youtube.com/@TonnyBall"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-light-500 hover:text-primary transition-colors duration-300"
@@ -149,7 +149,7 @@ const Header: React.FC = () => {
                 <Instagram size={20} />
               </a>
               <a
-                href="https://www.youtube.com/channel/UC1SMA2DymRtJY7T-2YUl"
+                href="https://www.youtube.com/@TonnyBall"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-primary hover:bg-primary-600 text-light-500 px-4 py-2 rounded-md transition-colors duration-300 flex items-center gap-2"

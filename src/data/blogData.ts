@@ -4,7 +4,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: '1',
     title: 'The Rise of AI in Football Tactics',
-    thumbnail: 'https://images.pexels.com/photos/3811867/pexels-photo-3811867.jpeg',
+    thumbnail: 'https://images.pexels.com/photos/1657328/pexels-photo-1657328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     excerpt: 'How artificial intelligence is revolutionizing the way teams approach tactical analysis and match preparation.',
     content: `
       <p>In the ever-evolving world of football, technological advancements continue to reshape how the game is played, analyzed, and understood. One of the most significant developments in recent years has been the integration of artificial intelligence into tactical analysis and match preparation.</p>
@@ -31,7 +31,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: '2',
     title: 'Predictions: The Next Generation of Superstars',
-    thumbnail: 'https://images.pexels.com/photos/3148452/pexels-photo-3148452.jpeg',
+    thumbnail: 'https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg',
     excerpt: 'Who will dominate the football world in the next decade? Our expert analysis of the rising talents set to become household names.',
     content: `
       <p>As legends like Lionel Messi and Cristiano Ronaldo enter the twilight of their careers, football fans worldwide are naturally wondering: who's next? Which young talents will rise to become the defining players of the next decade?</p>
@@ -64,7 +64,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: '3',
     title: 'Behind the Scenes: A Day at Manchester City\'s Training Ground',
-    thumbnail: 'https://images.pexels.com/photos/3642030/pexels-photo-3642030.jpeg',
+    thumbnail: 'https://images.pexels.com/photos/30542681/pexels-photo-30542681/free-photo-of-intense-soccer-match-action-on-green-field.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     excerpt: 'Exclusive access to one of football\'s most advanced training facilities and what makes City\'s approach so special.',
     content: `
       <p>The gates of Manchester City's £200 million training complex don't open for many outside the club's inner circle. Today, however, TonnyBall has been granted exclusive access to observe, document, and understand what makes this facility the envy of clubs worldwide.</p>
@@ -101,7 +101,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: '4',
     title: 'Best Goals of 2025 (So Far)',
-    thumbnail: 'https://images.pexels.com/photos/3649094/pexels-photo-3649094.jpeg',
+    thumbnail: 'https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     excerpt: 'From bicycle kicks to long-range screamers, these are the most spectacular goals scored in 2025 so far.',
     content: `
       <p>We're only halfway through 2025, but we've already witnessed some truly extraordinary goals across the world's top leagues and competitions. Here's our definitive ranking of the best strikes of the year so far.</p>

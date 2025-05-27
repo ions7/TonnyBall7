@@ -66,7 +66,7 @@ const MatchCard: React.FC<MatchCardProps> = ({ match, index }) => {
         </div>
 
         <button className="w-full bg-primary hover:bg-primary-600 text-light-500 py-2 rounded-md transition-colors duration-300 font-medium">
-          {new Date(match.date) > new Date() ? 'Buy Tickets' : 'Match Details'}
+          {new Date(match.date) > new Date() ? 'Live Match' : 'Match Details'}
         </button>
       </div>
     </motion.div>

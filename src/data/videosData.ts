@@ -27,5 +27,15 @@ export const videos: Video[] = [
     url: 'https://www.youtube.com/watch?v=Ln0m6AG4w5c',
     category: 'Music',
     date: '2025-05-19',
+  },
+
+  {
+    id: '4',
+    title: '🔥 Never Give Up – Football’s Most Emotional Comebacks & Last-Minute Goals',
+    thumbnail: 'https://i.ytimg.com/vi_webp/t73LAKnKp1M/hqdefault.webp',
+    description: '⚽ Football isn’t just a game—it’s a story of heart, struggle, and the will to never give up.',
+    url: 'https://www.youtube.com/watch?v=t73LAKnKp1M',
+    category: 'Music',
+    date: '2025-05-19',
   }
 ];
